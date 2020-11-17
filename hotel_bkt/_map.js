@@ -1,5 +1,5 @@
         var map;
-        var server = "https://fandywebgishotelbdl.herokuapp.com/hotel_bkt/";
+        var server = "https://fandyawebgishotelbdl.herokuapp.com/hotel_bkt/";
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
