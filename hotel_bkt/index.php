@@ -42,7 +42,7 @@ session_start();
     <script src="../config_public.js"></script>
     <script src="_map.js"></script>
     <script src="_fungsional.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANIx4N48kL_YEfp-fVeWmJ_3MSItIP8eI&callback=true"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgpfxdQ0Ep_nieNjV64u4yXWeSFHAT4BE&callback=true"></script>
 
 
 <style type="text/css">
