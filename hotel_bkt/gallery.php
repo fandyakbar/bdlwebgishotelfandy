@@ -34,7 +34,7 @@ session_start();
     <script src="assets/js/chart-master/Chart.js"></script>
 
     <script src="../config_public.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANIx4N48kL_YEfp-fVeWmJ_3MSItIP8eI&callback=true"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgpfxdQ0Ep_nieNjV64u4yXWeSFHAT4BE&callback=true"></script>
 
       <!--LOADER-->
     <style>
